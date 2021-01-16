@@ -55,3 +55,158 @@ body{
     
 }
 
+/* ---------------------------------- MAIN ---------------------------------- */
+
+
+
+/* ---------------------------------- ART 1---------------------------------- */
+
+.titulo{
+    color: #8f8fff;
+    font-weight: 600;
+   
+}
+
+.titulo p{
+    margin-left: 0;
+}
+
+.art1{
+    height: 380px;
+    /* background: tomato; */
+    margin-bottom: 30px;
+   
+    
+}
+
+.art-img{
+    height: 100%;
+    width: 60%;
+    background: url(https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    margin-right: 0;
+}
+
+.art1 img{
+    width: 20px;
+}
+
+.contenedor-art{
+    width: 100%;
+    display: flex;
+    height: 380px;
+    justify-content: space-between;
+}
+
+.info{
+    height: 100%;
+    font-size: 10pt;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    
+}
+
+.contenedor-social{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0;
+    
+}
+
+.art1 h1{
+    font-size: 20pt;
+    font-weight: 600;
+    margin-top: 0;
+}
+
+.art1 h3{
+    font-size: 12pt;
+    
+    font-weight: 600;
+}
+
+
+
+/* ---------------------------------- ART 2---------------------------------- */
+
+.titulo{
+    color: #8f8fff;
+    font-weight: 600;
+   
+}
+
+.titulo p{
+    margin-left: 0;
+}
+
+.art2{
+    height: 380px;
+    /* background: tomato; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+    
+}
+
+.art-img2{
+    height: 40%;
+    width: 60%;
+    background: url(https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: cover;
+    margin-right: 0;
+}
+
+.art2 img{
+    width: 20px;
+}
+
+.contenedor-art{
+    width: 100%;
+    display: flex;
+    height: 380px;
+    justify-content: space-between;
+}
+
+.info2{
+    height: 100%;
+    font-size: 10pt;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+}
+
+.contenedor-social{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0;
+    
+}
+
+.art2 h1{
+    font-size: 12pt;
+    font-weight: 600;
+    margin-top: 0;
+}
+
+.art2 p{
+    font-size: 8pt;
+    
+    margin-top: 0;
+}
+
+
+.art2 h3{
+    font-size: 10pt;
+    
+    font-weight: 600;
+}
+
+
+/* ---------------------------------- ARTICULOS SUELTOS---------------------------------- */
